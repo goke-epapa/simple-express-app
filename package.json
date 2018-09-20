@@ -1,0 +1,13 @@
+{
+  "name": "simple-express-app",
+  "version": "0.0.1",
+  "description": "A simple express app to learn to dockerise a nodejs app",
+  "main": "index.js",
+  "repository": "https://github.com/goke-epapa/simple-express-app",
+  "author": "Goke Obasa <adegokeobasa@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
